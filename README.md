@@ -1,24 +1,72 @@
-<h1 align="center">Hi 👋, I'm Sourish Chakraborty</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="left">Hi 👋! This is Sourish and UI designers are my worst nightmare</h1>
+🔭 I’m currently working on My Communication Skills 😅
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourish-chakraborty04&label=Profile%20views&color=0e75b6&style=flat" alt="sourish-chakraborty04" /> </p>
+🌱 I’m currently learning **Backend Web Dev & Ethical Hacking**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourish-chakraborty04" alt="sourish-chakraborty04" /></a> </p>
+###
 
-- 🔭 I’m currently working on **my Communication Skills 😅**
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Languages and Tools Section -->
+  <div style="width: 500px;">
+    <h3>Languages and Tools:</h3>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3 logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="express logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="mongodb logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="react logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="nodejs logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="postman logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="amazonwebservices logo" />
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="python logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="cplusplus logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="java logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="linux logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo" />
+    <img width="12" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" />
+  </div>
+  <div style="width: 200px; text-align: right;">
+    <h3>Connect with me:</h3>
+    <a href="https://linkedin.com/in/sourish-chakraborty-iemk" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourish-chakraborty-iemk"width="50" height="50" /><img width="12" /></a>
+    <a href="https://instagram.com/chokrobortis_" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chokrobortis_" width="50" height="50" /><img width="12" /></a>
+    <a href="https://www.leetcode.com/sourishchakraborty" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourishchakraborty" width="50" height="50" /><img width="12" /></a>
+  </div>
+</div>
 
-- 🌱 I’m currently learning **Backend Web Dev & Ethical Hacking**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sourish-chakraborty-iemk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourish-chakraborty-iemk" height="30" width="40" /></a>
-<a href="https://instagram.com/chokrobortis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chokrobortis_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourishchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourishchakraborty" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ4ZGE2MDF5MnZjc2kxNnhieG1lNXZwcDA4MzhuYXVvcmJvbngyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jbK2wDBCCYbXRhGtg3/giphy.gif"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourish-chakraborty04&show_icons=true&locale=en&layout=compact" alt="sourish-chakraborty04" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourish-chakraborty04&show_icons=true&locale=en" alt="sourish-chakraborty04" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourish-Chakraborty04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sourish-Chakraborty04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
+
+
