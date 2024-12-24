@@ -45,11 +45,11 @@
   <div style="width: 200px; text-align: right;">
     <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/sourish-chakraborty-iemk" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourish-chakraborty-iemk"width="50" height="50" /><img width="12" /></a>
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourish-chakraborty-iemk"width="50" height="50" /><img width="21" /></a>
     <a href="https://instagram.com/chokrobortis_" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chokrobortis_" width="50" height="50" /><img width="12" /></a>
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chokrobortis_" width="50" height="50" /><img width="21" /></a>
     <a href="https://www.leetcode.com/sourishchakraborty" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourishchakraborty" width="50" height="50" /><img width="12" /></a>
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourishchakraborty" width="50" height="50" /><img width="21" /></a>
   </div>
 </div>
 
