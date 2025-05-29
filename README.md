@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! This is Sourish and UI designers are my worst nightmare</h1>
-🔭 I’m currently working on My Communication Skills 😅
+🔭 Currently working on My Communication Skills 😅
 
-🌱 I’m currently learning **Backend Web Dev & Ethical Hacking**
+🌱 Learning **Backend Web Dev & Ethical Hacking**
 
 ###
 
