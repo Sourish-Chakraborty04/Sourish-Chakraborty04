@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! This is Sourish and UI designers are my worst nightmare</h1>
+<h1 align="left">Hi 👋! This is Sourish</h1>
 🔭 Currently working on My Communication Skills 😅
 
 🌱 Learning **Backend Web Dev & Ethical Hacking**
