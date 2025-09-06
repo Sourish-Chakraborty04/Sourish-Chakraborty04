@@ -1,26 +1,35 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900;">
-    Hiii &lt;<span style="color:#00d8ff;">Develoopers</span> /&gt;!
-  </span> 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="waving hand" />
+    Hiii &lt;<span style="color:#00d8ff;">Develoopers</span> /&gt;!👋🏽
+  </span>
 </h1>
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="coding animation" style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
-</div>  
+###  <table>
 
-### <div align="center" style="font-style: italic; color: #555;">
-Here's <strong>Sourish</strong>, a <span style="color:#00d8ff;">Python and Full Stack Web Developer</span>👨‍💻.<br/>
-Love solving my real-life problems with projects 🚀
-## <h1 align="center"> Python Dev || Web dev || UI Designer
-</div>  
-
+  <tr>
+    <td style="vertical-align: top; font-style: italic; color: #555;">
+      <p>
+        <h1>Hiii, I'm Sourish, <br> 
+        <span style="color:#00d8ff;"><strong>A Python and Full Stack Web Developer</strong></span> 👨‍💻
+      </p>
+      <h3>Love solving my real-life problems with projects 🚀</h3>
+    </td>
+    <td>
+      <img src="https://blog.codeitbro.com/wp-content/uploads/2020/07/python-funny-meme-17-cant-compare-int-and-float.jpg" 
+           alt="coding" width="400" style="border-radius: 15px;" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-20.jpeg" alt="coding" width="100%" style="border-radius: 15px;"/></td>
+    <td><h1 align-items="center">Python Dev ||<br> Web dev || <br>UI Designer</h1></td>
+  </tr>
+</table>
+          
 ---
 
 ## 🛠️ Skills & Tools
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" style="margin: 10px;" />
@@ -39,6 +48,7 @@ Love solving my real-life problems with projects 🚀
 ---
 
 ## 🕰️Ongoing Things
+
 - 🌱 Currently learning advanced Development
 - 🍵 Leading a team of 5
 - 🛠️ Exploring Machine Learning    
@@ -60,9 +70,7 @@ Love solving my real-life problems with projects 🚀
 ---
 
 <h2 align="center" style="color:#00d8ff;">About Me</h2>
-
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" />
-
 <ul style="max-width: 600px; font-size: 1.1rem; line-height: 1.6; color: #333;">
   <li>🐍 Love Python. Surrounded by pythons.</li>
   <li>🚴🏽 Passionate Cyclist.</li>
@@ -72,4 +80,4 @@ Love solving my real-life problems with projects 🚀
 </ul>
 
 ---
-See yaa..!! 👋🏽😉
+See yaa.
